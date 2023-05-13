@@ -1,0 +1,5 @@
+id
+title
+status
+environments
+link_to_bag_report
